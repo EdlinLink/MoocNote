@@ -246,7 +246,8 @@ What was the maximum ozone value in the month of May (i.e. Month = 5)?
 > 筛选，然后利用max()函数计算。
 
 
-# 参考资料
+## 参考资料
+
 1. [对data.frame和matrix的一些操作技巧总结. maver. 炼数成金](http://f.dataguru.cn/thread-16331-1-1.html)
 2. [R语言快速入门~ 真的很快~. 大爷你啥样. 百度贴吧统计狂魔吧](http://tieba.baidu.com/p/1840660429)
 3. [R语言怎样求行均值? sociology. cos论坛统计之都统计学论坛](http://cos.name/cn/topic/12365)
